@@ -29,9 +29,3 @@
 	<img height="20px" class="language-badge" src="https://img.shields.io/badge/Arch%20Linux-%231793d1.svg?style=flat-square&logo=archlinux&logoColor=white"></img>
 	<img height="20px" class="language-badge" src="https://img.shields.io/badge/git-%23F1502F.svg?style=flat-square&logo=git&logoColor=white"></img>
 </details>
-
-<style>
-	.language-badge {
-		margin: 5px;
-	}
-</style>
